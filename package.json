@@ -1,0 +1,15 @@
+{
+  "name": "serverless1-fork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sendEmail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.4",
+    "pg": "^8.13.1"
+  }
+}
